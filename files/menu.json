@@ -1,0 +1,11 @@
+{
+    "testing": {
+        "title": "Testing",
+        "index": 100
+    },
+    "testing/basics": {
+        "title": "Basics",
+        "view": "vuci-app-basics",
+        "index": 10
+    }
+}
